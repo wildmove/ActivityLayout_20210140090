@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PAM 2</string>
+    <string name="nama">Wildan</string>
+    <string name="no">12345678</string>
+    <string name="hp">Google Pixel 8</string>
+    <string name="button">Learn More</string>
 </resources>
