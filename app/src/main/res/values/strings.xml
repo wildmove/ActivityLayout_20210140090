@@ -4,4 +4,12 @@
     <string name="no">12345678</string>
     <string name="hp">Google Pixel 8</string>
     <string name="button">Learn More</string>
+    <string name="nameText">Name</string>
+    <string name="phoneText">Phone</string>
+    <string name="addressText">Address</string>
+    <string name="selectAirlinesText">Select Your Airlines</string>
+    <string name="right">Right</string>
+    <string name="left">Left</string>
+    <string name="submitButtonText">Submit</string>
+    <string name="textView">textView</string>
 </resources>
